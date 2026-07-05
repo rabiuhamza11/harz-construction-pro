@@ -1,0 +1,12 @@
+{
+  "name": "harz-construction-pro",
+  "version": "1.0.0",
+  "description": "NEXUS Pro — HARZ Construction Management System",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static build - no compilation needed'",
+    "start": "npx serve ."
+  },
+  "keywords": ["construction", "management", "nexus", "harz"],
+  "author": "Rabiu Hamza Mohammed"
+}
